@@ -6,6 +6,7 @@ public class BddDemo {
 		
 		System.out.println("Helloo !!");
 		int add = sum(4,5);
+		System.out.println("sum = "+add);
 
 	}
 
