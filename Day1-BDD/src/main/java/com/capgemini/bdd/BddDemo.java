@@ -4,8 +4,8 @@ public class BddDemo {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Helloo !!");
-		int add = sum(4,5);
+		System.out.println("Heyyyyyy !!");
+		int add = sum(5,5);
 		System.out.println("sum = "+add);
 
 	}
